@@ -5,6 +5,8 @@ repo:  example-status-page
 sites:
   - name: Sanic Book
     url: https://sanicbook.com/
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
   
 status-website:
   baseUrl: /example-status-page

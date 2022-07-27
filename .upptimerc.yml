@@ -7,7 +7,7 @@ sites:
     url: https://sanicbook.com/
   
 status-website:
-  baseUrl: /ahopkins
+  baseUrl: /example-status-page
   logoUrl: https://raw.githubusercontent.com/sanic-org/sanic-assets/main/svg/sanic-framework-logo-circle.svg
   name: Sample Status Page
   introTitle: "This is an **example**."

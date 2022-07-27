@@ -7,7 +7,10 @@ sites:
     url: https://sanicbook.com/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-  - name: A non-site item
+  - name: Manual Report
+    check: "tcp-ping"
+    url: 8.8.8.8
+    port: 53
   
 status-website:
   baseUrl: /example-status-page

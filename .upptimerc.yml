@@ -7,6 +7,7 @@ sites:
     url: https://sanicbook.com/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: A non-site item
   
 status-website:
   baseUrl: /example-status-page
